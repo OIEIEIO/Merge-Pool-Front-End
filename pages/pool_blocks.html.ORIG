@@ -79,7 +79,7 @@
 <!-- Javascript -->
 <script>
 // Hide blocks chart on load
-
+$('#blocksChart').hide();
 
 // Update current page
 currentPage = {

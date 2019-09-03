@@ -1,20 +1,14 @@
-var api = "http://207.180.227.127:8111";
-var apiMerged = "http://207.180.227.127:8117";
+var api = "http://mining.oieieio.xyz:8521";
+var api = "http://mining.oieieio.xyz:8520"
 
-var email = "";
-var telegram = "";
-var discord = "";
+var email = "oieieio@protonmail.com";
+var telegram = "https://t.me/joinchat/J345qUOVKPPtsJQgiLbwVQ";
+var discord = "https://discord.gg/9zBpbcM";
 
-var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
+var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol}-CAD"];
 
-var blockchainExplorer = "http://173.249.48.79:8081/block/{id}";
-var transactionExplorer = "http://173.249.48.79:8081/tx/{id}";
-
-var blockchainExplorerMerged = "http://explorer.coin42.co/search?value={id}";
-var transactionExplorerMerged = "http://explorer.coin42.co/search?value={id}";
-
-
-
+var blockchainExplorer = "https://explorer.mcn.green/?hash={id}#blockchain_block";
+var transactionExplorer = "https://explorer.mcn.green/?hash={id}#blockchain_transaction";
 
 var themeCss = "themes/default.css";
 var defaultLang = 'en';

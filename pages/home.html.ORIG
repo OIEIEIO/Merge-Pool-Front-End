@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html>
-     <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142983130-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-142983130-1');
-</script>
-
-</head>
-<body>
-
-<div class="row">
-	<div class="col-sm-12">
-		<div class="hoverExpandEffect">
-			<div class="alert alert-warning">
-				<i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:32px;"></i> MonetaVerde mining with Cryptonight Turtle variant 2 (cn-pico/trtl) and Cryptonight Original (cn/0)
-			</div>
-		</div>
-	</div>
-</div>
-
 <br/>
 
 <!-- Statistics -->
